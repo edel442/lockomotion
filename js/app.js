@@ -2,7 +2,7 @@
 
 
 //alle Eventhandler initialisieren ("der Mannschaft ihre Aufgaben geben")
-//wird unten in $(document).ready() als Parameter übergeben
+//wird unten in $(document).ready() === die init-function als Parameter übergeben
 
 var init = function() {
 	
