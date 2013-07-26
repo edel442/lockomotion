@@ -1,0 +1,50 @@
+body {
+	width: 1000px;
+	margin: auto;
+	background: #3d1005;
+	color: #fada7a;
+	marging: 0px;
+	padding: 0px;
+	display: block;
+}
+
+#header {
+	background: #4A1206 url(grashuepfer-mittel.png) no-repeat;
+	color: white;
+	text-align: center;
+	background-repeat: no-repeat;
+	border-radius: 5px;
+	padding-top: 50px; # header { width : 800px;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+
+}
+#logo {
+	margin: 55px;
+}
+
+.navself {
+	background: #3F1106; 
+	list-style : none;
+	text-align: center;
+	width: 1000px;
+	background: lightgreen;
+}
+
+.content {
+	margin: 20px auto;
+	padding: 10px;
+}
+
+img {
+	width: 200px;
+	height: 250px;
+}
+
+#seb {
+	width: 100px;
+	height: 130px;
+	float: left;
+	margin-right: 10px;
+}
