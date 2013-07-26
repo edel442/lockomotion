@@ -3,9 +3,7 @@ body {
 	margin: auto;
 	background: #3d1005;
 	color: #fada7a;
-	marging: 0px;
 	padding: 0px;
-	display: block;
 }
 
 #header {
@@ -14,8 +12,8 @@ body {
 	text-align: center;
 	background-repeat: no-repeat;
 	border-radius: 5px;
-	padding-top: 50px; # header { width : 800px;
-	margin: 0 auto;
+	padding-top: 50px; 
+	margin: 40 auto;
 	padding-top: 50px;
 }
 
