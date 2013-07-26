@@ -15,6 +15,7 @@ body {
 	padding-top: 50px; 
 	margin: 40 auto;
 	padding-top: 50px;
+	height: 250px;
 }
 
 }
@@ -28,6 +29,7 @@ body {
 	text-align: center;
 	width: 1000px;
 	background: lightgreen;
+	margin-top: 90px;
 }
 
 .content {
@@ -44,4 +46,9 @@ img {
 	height: 130px;
 	float: left;
 	margin-right: 10px;
+}
+
+.bilder {
+	width: 700px;
+	margin: auto;
 }
