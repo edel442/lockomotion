@@ -12,7 +12,7 @@ body {
 	text-align: center;
 	background-repeat: no-repeat;
 	border-radius: 5px;
-	padding-top: 50px; 
+	padding-top: 50px;
 	margin: 40 auto;
 	padding-top: 50px;
 	height: 250px;
@@ -24,11 +24,9 @@ body {
 }
 
 .navself {
-	background: #3F1106; 
-	list-style : none;
+	list-style: none;
 	text-align: center;
 	width: 1000px;
-	background: lightgreen;
 	margin-top: 90px;
 }
 
@@ -37,18 +35,31 @@ body {
 	padding: 10px;
 }
 
-img {
-	width: 400px;
+
+p img {
+	width: 150px;
+	margin-right: 20px; 
 }
 
-#seb {
-	width: 100px;
-	height: 130px;
-	float: left;
-	margin-right: 10px;
+#rockforafrica {
+	width: 300px;
+	margin-right: 20px;
 }
 
-.bilder {
-	width: 700px;
-	margin: auto;
+.karussel {
+	display: inline-block;
+	height: 1000px;
 }
+
+.karussel img {
+	width: 500px;
+}
+
+
+#footer {
+	background-color: #2d1004;
+	height: 20px;
+	padding: 10px 10px 10px 20px;
+}
+
+
